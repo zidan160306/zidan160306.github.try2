@@ -1,0 +1,134 @@
+
+
+
+
+body {
+   background-color: white;
+}
+
+.container-navbar{
+   width: 98.5%;
+   height: 100px;
+}
+
+.ul-navbar{
+    background: #833ab4;
+    background: linear-gradient(
+      to right,
+      #833ab4,#fd1d1d,#fcb045);
+      width:100%;
+      height: 100px;
+    justify-content:center;
+    display:flex;
+    align-items: center;
+}
+
+.li-navbar{
+    list-style-type: none;
+    color: rgb(252, 252, 252);
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+
+.li-navbar:hover{
+    background-color: #ad2828;
+}
+
+.a-navbar{
+    color: white;
+    text-decoration: none;
+}
+.CONTAINER-CONTENT{
+    background: rgb(34,60,198);
+    background: radial-gradient(circle, rgba(34,60,198,1) 0%, rgba(45,41,89,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.CONTAINER-FOOTER{
+    background: #833ab4;
+    background: linear-gradient(
+      to right,
+      #833ab4,#fd1d1d,#fcb045);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 7vh;
+    color: white;
+}
+
+.a-gambar{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(240, 248, 255);
+    flex-direction:column;
+    border-radius: 80px;
+    width: 40%;
+    height: 65%;
+    box-shadow:11px 10px 14px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 11px 10px 14px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px 10px 14px -1px rgba(0,0,0,0.75);
+}
+
+.a-gambar:hover{
+    background: #833ab4;
+    background: linear-gradient(
+    to right,
+    #833ab4,#fd1d1d,#fcb045);
+   
+}
+.DEFINISI{
+    font-size: 35px ;
+    color: white;
+}
+
+.container-content2{
+    background-color: rgb(241, 229, 229);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background: rgb(34,60,198);
+    background: radial-gradient(circle, rgba(34,60,198,1) 0%, rgba(45,41,89,1) 100%);
+}
+
+.li-content{
+    list-style-type: none;
+    text-align: center;
+    font-size: 50px; 
+    color: rgb(235, 224, 224);
+    width: 90%;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+
+.ul-content{
+    background-color:rgba(0, 0, 0, 0.288);
+    
+    width: 40%;
+    border-radius: 50px;
+}
+
+.audio-content{
+    width: 96%;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    width:100% ;
+    height: 100px;  
+}
+
+
+
